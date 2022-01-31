@@ -16,3 +16,7 @@ ul{
    align-items: baseline;
 
 }
+.main{
+    background: black;
+    height: 100vh;
+}
